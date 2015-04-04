@@ -1,0 +1,17 @@
+INPUT(
+./release\extrairediagonales.o
+./release\fenprincipale.o
+./release\inconsistantdiagonales.o
+./release\InfoDiagonale.o
+./release\infopassagesousseq.o
+./release\main.o
+./release\ordonnediagonales.o
+./release\poidsdiagonale.o
+./release\voiture.o
+./release\suppsousdiagonales.o
+./release\aligner.o
+./release\ordonneraligne.o
+./release\newmethodealigne.o
+./release\graphe.o
+./release\moc_fenprincipale.o
+);
